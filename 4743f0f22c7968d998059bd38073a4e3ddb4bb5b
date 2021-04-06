@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a0afca4_ffdcde12",
+        "filename": "python-glance-tests-tempest.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 111
+      },
+      "writtenOn": "2021-04-06T13:56:28Z",
+      "side": 1,
+      "message": "I think It is not needed, as we never had glance-tempest-plugin earlier in older release, we can remove it.",
+      "range": {
+        "startLine": 48,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 43
+      },
+      "revId": "4743f0f22c7968d998059bd38073a4e3ddb4bb5b",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    }
+  ]
+}
