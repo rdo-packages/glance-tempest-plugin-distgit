@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "65d4611e_8eb54f3b",
+        "filename": "python-glance-tests-tempest.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2021-04-09T12:25:48Z",
+      "side": 1,
+      "message": "add epoch too: 2:5.1.0",
+      "revId": "471a083ff2d836abc58dcc0f17678c7360be726d",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    }
+  ]
+}
