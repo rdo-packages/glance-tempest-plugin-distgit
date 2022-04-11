@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1cc5eb98_eaa51435",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 141
+      },
+      "writtenOn": "2022-04-11T10:34:06Z",
+      "side": 1,
+      "message": "For some reasons I can\u0027t +2 here - Chandan, can you?",
+      "revId": "84806d988b9bf903e765eaba17adb4fcd3322158",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
