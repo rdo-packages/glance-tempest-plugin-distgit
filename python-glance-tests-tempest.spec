@@ -1,5 +1,5 @@
 %{!?sources_gpg: %{!?dlrn:%global sources_gpg 1} }
-%global sources_gpg_sign 0x01527a34f0d0080f8a5db8d6eb6c5df21b4b6363
+%global sources_gpg_sign 0xa63ea142678138d1bb15f2e303bdfd64dd164087
 %global service glance
 %global plugin glance-tempest-plugin
 %global module glance_tempest_plugin
@@ -12,7 +12,7 @@ Additionally it provides a plugin to automatically load these tests \
 into Tempest.
 
 Name:       python-%{service}-tests-tempest
-Version:    0.3.0
+Version:    0.4.0
 Release:    1%{?dist}
 Summary:    Tempest Integration of Glance Project
 License:    ASL 2.0
@@ -79,6 +79,9 @@ rm -rf %{module}.egg-info
 %{python3_sitelib}/*.egg-info
 
 %changelog
+* Wed Jul 06 2022 RDO <dev@lists.rdoproject.org> 0.4.0-1
+- Update to 0.4.0
+
 * Fri Apr 01 2022 RDO <dev@lists.rdoproject.org> 0.3.0-1
 - Update to 0.3.0
 
