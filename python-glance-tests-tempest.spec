@@ -78,6 +78,7 @@ rm -rf %{module}.egg-info
 %{python3_sitelib}/%{module}
 %{python3_sitelib}/*.egg-info
 
+
 %changelog
 * Wed Jul 06 2022 RDO <dev@lists.rdoproject.org> 0.4.0-1
 - Update to 0.4.0
