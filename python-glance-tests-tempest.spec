@@ -71,3 +71,4 @@ BuildRequires:  pyproject-rpm-macros
 %{python3_sitelib}/*.dist-info
 
 %changelog
+# REMOVEME: error caused by commit https://opendev.org/openstack/glance-tempest-plugin/commit/88c9129924a2a94088d77f403bad2a8cde78fd57
